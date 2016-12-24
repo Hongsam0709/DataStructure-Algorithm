@@ -1,1 +1,3 @@
-# DataStructure-Algorithm
+# 구현알고리즘 목록 (이슈번호)
+
+# 구현 자료구조 목록 (이슈번호)
